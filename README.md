@@ -1,18 +1,18 @@
-# Projeto de Modernização Tecnológica: Aquisição de Notebooks para o Ensino Híbrido no Polo Caucaia
+# Projeto de Modernização Tecnológica: Aquisição de Notebooks para o Ensino Híbrido Colegio Premier
 
 ---
 
 ## 1. Resumo Executivo
 
-Este projeto propõe a aquisição de **30 notebooks** para o Polo Caucaia, visando substituir os desktops obsoletos nos laboratórios e expandir as possibilidades de aprendizado para um modelo de ensino mais flexível e híbrido. A iniciativa busca equipar os alunos com ferramentas modernas e portáteis, essenciais para o desenvolvimento de habilidades digitais e para a adaptação às novas metodologias de ensino. A mobilidade dos notebooks otimizará o uso dos recursos tecnológicos em diferentes ambientes escolares e preparará os alunos para os desafios do mercado de trabalho, com um **investimento total estimado em R$ 165.750,00**.
+Este projeto prevê a aquisição de **30 notebooks** para o Colégio Premier, com o objetivo de substituir os computadores de mesa ultrapassados nos laboratórios e ampliar as oportunidades de aprendizado em um formato de ensino mais dinâmico e híbrido. A proposta busca oferecer aos estudantes equipamentos modernos e portáteis, fundamentais para o desenvolvimento de competências digitais e para a adaptação a novas práticas pedagógicas. A mobilidade dos notebooks permitirá otimizar a utilização dos recursos tecnológicos em diferentes espaços da instituição e contribuirá para preparar os alunos para as demandas do mercado de trabalho, com um **custo total estimado em R$ 161.000,00.**
 
 ---
 
 ## 2. Introdução e Justificativa
 
-O Laboratório de Informática do Polo Caucaia, um pilar para o ensino de tecnologia e para diversas disciplinas, conta atualmente com 25 computadores desktop com mais de sete anos de uso. Esses equipamentos apresentam desempenho comprometido, com processadores e memória RAM insuficientes para executar softwares educacionais modernos, ferramentas de programação e aplicações de simulação. A baixa performance e a restrição de uso a um único laboratório limitam a flexibilidade pedagógica e impedem a integração da tecnologia em outros espaços de aprendizado.
+O **Laboratório de Informática do Colégio Premier**, referência no apoio ao ensino de tecnologia e a diversas áreas do conhecimento, dispõe atualmente de 15 computadores desktop com mais de sete anos de utilização. Esses equipamentos apresentam desempenho limitado, com processadores e memória RAM insuficientes para rodar softwares educacionais atuais, ferramentas de programação e aplicações de simulação. A baixa eficiência e a restrição de uso a um único laboratório reduzem a flexibilidade pedagógica e dificultam a integração da tecnologia em outros ambientes de aprendizagem.
 
-A substituição desses desktops por notebooks modernos e portáteis é crucial. Além de resolver os problemas de desempenho, a mobilidade dos notebooks permitirá que as aulas de computação sejam realizadas em diferentes salas, que projetos de grupo ocorram em áreas colaborativas e que a tecnologia seja integrada de forma mais fluida ao dia a dia da escola. Essa mudança apoiará o ensino híbrido, que combina atividades presenciais e remotas, e garantirá que o Polo Caucaia ofereça uma educação de ponta, preparando seus alunos para as dinâmicas tecnológicas atuais.
+A substituição desses desktops por notebooks modernos e portáteis torna-se essencial. Além de solucionar os problemas de desempenho, a mobilidade dos notebooks permitirá que as aulas de informática ocorram em diferentes salas, que trabalhos em grupo sejam desenvolvidos em espaços colaborativos e que a tecnologia seja incorporada de forma mais dinâmica ao cotidiano escolar. Essa transformação fortalecerá o modelo de ensino híbrido, que combina atividades presenciais e online, e assegurará que o **Colégio Premier** ofereça uma educação inovadora, preparando seus estudantes para as exigências do mundo tecnológico atual.
 
 ---
 
@@ -20,11 +20,15 @@ A substituição desses desktops por notebooks modernos e portáteis é crucial.
 
 Os objetivos específicos desta aquisição são:
 
-* **1. Promover Mobilidade e Flexibilidade:** Permitir que as atividades de computação e pesquisa possam ser realizadas em qualquer sala de aula, biblioteca ou espaço de estudo do Polo Caucaia, sem a dependência de um laboratório fixo.
-* **2. Aumentar o Desempenho Computacional:** Reduzir em **80% o tempo de carregamento** de softwares complexos (ex: ambientes de desenvolvimento, editores de vídeo e modelagem 3D) e garantir a fluidez na execução de múltiplos aplicativos simultaneamente.
-* **3. Apoiar Novas Metodologias de Ensino:** Viabilizar projetos interdisciplinares e a implementação de recursos de ensino híbrido e remoto, com acesso a plataformas online de forma eficiente.
-* **4. Reduzir Custos Operacionais:** Diminuir o consumo de energia elétrica em aproximadamente **30%** em comparação com os desktops atuais, além de otimizar o espaço físico.
-* **5. Preparar para o Futuro:** Fornecer aos alunos acesso a ferramentas portáteis que espelham o ambiente de trabalho profissional e universitário contemporâneo.
+* **1. Incentivar Mobilidade e Versatilidade:** Possibilitar que as atividades de informática e pesquisa sejam realizadas em qualquer sala de aula, biblioteca ou espaço de estudo do Colégio Premier, sem a limitação de um laboratório fixo.
+
+* **2. Elevar o Desempenho Tecnológico:** **Reduzir significativamente o tempo de inicialização de softwares avançados** (como ambientes de programação, editores de vídeo e ferramentas de modelagem 3D) e assegurar maior fluidez na execução simultânea de diversos aplicativos.
+
+* **3. Favorecer Novas Estratégias de Ensino:** Tornar viáveis projetos interdisciplinares e a adoção de recursos de ensino híbrido e remoto, com acesso eficiente a plataformas digitais.
+
+* **4. Diminuir Custos Operacionais:** Reduzir o consumo de energia elétrica em cerca de **35%** em comparação aos desktops atuais, além de otimizar a utilização do espaço físico.
+
+* **5. Preparar para as Demandas Futuras:** Oferecer aos estudantes equipamentos portáteis que reproduzam o ambiente tecnológico encontrado em universidades e no mercado de trabalho contemporâneo.
 
 ---
 
@@ -34,7 +38,7 @@ As especificações abaixo detalham os requisitos mínimos e recomendados para o
 
 | Componente           | Mínimo                                     | Recomendado                                        |
 | :------------------- | :----------------------------------------- | :------------------------------------------------- |
-| **Processador** | Intel Core i7 (12ª geração ou AMD Ryzen 7 6000U) | Intel Core i7/i9 (última geração ou AMD Ryzen 9)   |
+| **Processador** | rocessador Intel® Core™ i5-13420H de (13ª geração) | Processador Intel® Core™ i7-13620H de (13ª geração)   |
 | **Memória RAM** | 16 GB DDR4 (3200 MHz)                      | 32 GB DDR4 (3200 MHz ou superior)                  |
 | **Armazenamento** | SSD NVMe de 512 GB                         | SSD NVMe de 1 TB                                   |
 | **Tela** | 15.6" Full HD IPS                            | 15.6" Full HD IPS com alta fidelidade de cor       |
@@ -47,12 +51,11 @@ As especificações abaixo detalham os requisitos mínimos e recomendados para o
 
 A imagem a seguir representa o tipo de notebook que atenderia às necessidades do nosso projeto, focando em portabilidade e desempenho superior:
 
-![Exemplo de Notebook de Alto Desempenho](https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3530-intel/media-gallery/black/notebook-inspiron-15-3530-nt-plastic-black-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=606&qlt=100,1&resMode=sharp2&size=606,402&chrss=full)
+![Exemplo de Notebook de Alto Desempenho](https://p4-ofp.static.pub//fes/cms/2024/05/17/jyzcghmbhhk6891sb7sl03ckaybmge004572.png)
 
 *Representação visual de um notebook moderno, potente e portátil, ideal para o ambiente educacional exigente.*
 
-Para mais detalhes sobre as especificações de notebooks e suas aplicações em ambientes educacionais, consulte o artigo da Intel sobre [Tecnologia na Educação](https://www.intel.com.br/content/www/br/pt/education/solutions/overview.html). Além disso, a importância da mobilidade no aprendizado é destacada em estudos como este da Microsoft: [O Futuro do Trabalho e do Aprendizado](https://www.microsoft.com/pt-br/education/resource-library/transforming-education-insights). *(Obs: Os links são exemplos e devem ser substituídos por links reais e relevantes.)*
-
+Para mais detalhes sobre as especificações do notebook consulte a pagina do fabricante [Notebooks](https://www.lenovo.com/br/pt/p/laptops/lenovo-laptops/v-series/lenovo-v15-g4-iru(brazil)/xxytxvni518?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOoqctVST40hHn4dC5tZw57debLjYxyj63R2U2sPhk_k7eVjxRb-8). 
 ---
 
 ## 5. Orçamento Estimado
@@ -61,36 +64,40 @@ A tabela abaixo apresenta uma estimativa de custo para a aquisição e implement
 
 | Item                             | Quantidade | Custo Unitário Estimado (R$) | Custo Total Estimado (R$) |
 | :------------------------------- | :--------: | :---------------------------: | :-----------------------: |
-| **Notebook (Modelo Premium)** | 30         | 5.500,00                     | 165.000,00                |
-| Seguro contra acidentes (anual)  | 30         | 50,00                        | 1.500,00                  |
-| Sistema de rastreamento (licença/dispositivo) | 30         | 25,00                        | 750,00                    |
-| Licenças de Software (Pacote Educacional) | 30         | 50,00                        | 1.500,00                  |
-| Bolsas/Cases de Proteção (premium) | 30         | 35,00                        | 1.050,00                  |
-| Roteador Wi-Fi (para laboratório) | 1          | 500,00                       | 500,00                    |
-| Instalação e Configuração Inicial | 1          | 250,00                       | 250,00                    |
-| **TOTAL GERAL ESTIMADO** |            |                               | **165.750,00** |
+| **Notebook (Modelo Premium)** | 30         | 5.000,00                     | 150.000,00                |
+| Seguro contra acidentes (anual)  | 30         | 70,00                        | 2.100,00                  |
+| Sistema de rastreamento (licença/dispositivo) | 30         | 50,00                        | 1.500,00                    |
+| Licenças de Software (Pacote Educacional) | 30         | 100,00                        | 3.000,00                  |
+| Bolsas/Cases de Proteção (premium) | 30         | 130,00                        | 3.900,00                  |
+| Roteador Wi-Fi (para laboratório) | 1          | 300,00                       | 300,00                    |
+| Instalação e Configuração Inicial | 1          | 250,00                       | 200,00                    |
+| **TOTAL GERAL ESTIMADO** |            |                               | **161.000,00** |
 
 ---
 
 ## 6. Benefícios Esperados
 
-A aquisição dos novos notebooks trará impactos significativos para toda a comunidade escolar:
+A aquisição dos novos notebooks proporcionará benefícios relevantes para toda a comunidade escolar:
 
-* **Para os Alunos:**
-    * **Mobilidade Aprimorada:** Possibilidade de levar o notebook para diferentes aulas, projetos em grupo na biblioteca ou áreas de estudo colaborativo.
-    * **Aprendizado Flexível:** Suporte integral ao ensino híbrido, permitindo a transição fluida entre atividades presenciais e online.
-    * **Maior Desempenho e Capacidade:** Execução sem travamentos de softwares de programação, design gráfico, edição de vídeo e pesquisa de alto impacto, otimizando o tempo de aprendizado e permitindo projetos mais complexos.
-    * **Preparação para o Mercado:** Familiaridade com equipamentos portáteis de alto padrão, refletindo a realidade de universidades e empresas de tecnologia.
-* **Para os Professores:**
-    * **Liberdade Pedagógica:** Flexibilidade para ministrar aulas em qualquer sala equipada com projetor, sem a necessidade de reservar laboratórios específicos.
-    * **Recursos Didáticos Modernos:** Possibilidade de utilizar softwares e plataformas mais exigentes, enriquecendo o conteúdo das aulas com simulações e ambientes virtuais avançados.
-    * **Redução de Problemas Técnicos:** Menor incidência de interrupções devido a falhas de hardware, otimizando o tempo de aula.
+* **Para os Estudantes:**
+  
+* **Maior Mobilidade:** Possibilidade de utilizar o notebook em diferentes aulas, em trabalhos em grupo na biblioteca ou em ambientes de estudo colaborativo.
+* **Aprendizagem Flexível:** Apoio completo ao ensino híbrido, possibilitando uma transição contínua entre atividades presenciais e virtuais.
+* **Desempenho Superior e Eficiência:** Execução sem falhas de softwares de programação, design gráfico, edição de vídeo e pesquisas avançadas, otimizando o tempo de estudo e viabilizando projetos mais sofisticados.
+* **Preparação para o Mercado de Trabalho:** Contato com equipamentos portáteis de alta performance, alinhados à realidade de universidades e empresas de tecnologia.
+
+* **Para os Docentes:**
+
+* **Autonomia Pedagógica:** Flexibilidade para conduzir aulas em qualquer sala equipada com projetor, sem depender da reserva de laboratórios específicos.
+* **Recursos Didáticos Atualizados:** Possibilidade de utilizar programas e plataformas mais complexas, enriquecendo as aulas com simulações e ambientes digitais modernos.
+* **Menos Problemas Técnicos:** Redução significativa de falhas de hardware, garantindo melhor aproveitamento do tempo de aula.
+
 * **Para a Instituição:**
-    * **Otimização de Espaço:** Redução da necessidade de manter laboratórios fixos com grandes equipamentos, liberando salas para outros fins.
-    * **Economia de Energia:** Notebooks geralmente consomem menos energia que desktops, gerando economia a longo prazo.
-    * **Modernização da Imagem:** Posicionamento do Polo Caucaia como uma instituição de ensino inovadora, equipada com tecnologia de ponta e atualizada.
-    * **Maior Segurança e Controle:** A inclusão de seguro e sistema de rastreamento reduz riscos de perdas e roubos, protegendo o investimento significativo.
-    * **Facilidade de Gerenciamento:** Modelos padronizados de notebooks podem simplificar a manutenção e o gerenciamento de inventário.
+
+* **Uso Mais Eficiente do Espaço:** Menor necessidade de manter laboratórios fixos com equipamentos volumosos, liberando salas para outras finalidades.
+* **Redução no Consumo de Energia:** Notebooks tendem a gastar menos eletricidade que desktops, promovendo economia a longo prazo.
+* **Valorização da Imagem Institucional:** Projeção do Colégio Premier como uma instituição de ensino inovadora, equipada com recursos tecnológicos avançados.
+* **Segurança Reforçada:** A inclusão de seguro e sistemas de rastreamento minimiza riscos de perdas e furtos, assegurando o investimento realizado.
 
 ---
 
@@ -107,4 +114,4 @@ A aquisição dos novos notebooks trará impactos significativos para toda a com
 
 ## 8. Considerações Finais
 
-A aquisição de notebooks para substituir os computadores atuais do Polo Caucaia é um passo estratégico e fundamental para consolidar um ambiente de ensino dinâmico, moderno e alinhado às necessidades do século XXI. Os benefícios de mobilidade, desempenho superior e flexibilidade pedagógica justificarão plenamente o investimento. Com um **orçamento estimado de R$ 165.750,00**, que inclui importantes medidas de segurança como seguro e rastreamento, consideramos este projeto financeiramente viável e de alto retorno para a qualidade educacional e a proteção do patrimônio. Contamos com a análise e aprovação deste projeto para que possamos iniciar essa transformação em breve.
+A implementação de notebooks em substituição aos computadores atuais do **Colégio Premier** representa um passo estratégico e essencial para consolidar um ambiente educacional mais dinâmico, inovador e alinhado às demandas do século XXI. Os ganhos em mobilidade, maior desempenho e versatilidade pedagógica justificam plenamente o investimento. Com um **custo estimado em R$ 161.000,00**, contemplando medidas relevantes de segurança, como seguro e rastreamento, avaliamos este projeto como financeiramente viável e de elevado retorno para a qualidade do ensino e para a preservação do patrimônio institucional. Contamos com a apreciação e aprovação desta proposta para que essa transformação seja iniciada em breve.
